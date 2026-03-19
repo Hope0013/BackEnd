@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GerenciamentoEstoqueApplication<gerenciamento_estoque>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.senai.estoque.gerenciamento_estoque.GerenciamentoEstoqueApplication",
+            "projectName": "gerenciamento_estoque",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
